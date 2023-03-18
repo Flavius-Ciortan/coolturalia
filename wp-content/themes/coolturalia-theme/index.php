@@ -1,2 +1,2 @@
 <php
-<h2>
+<h2>testing issue theme 1</h2>
