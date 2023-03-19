@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/basicwp.iml" filepath="$PROJECT_DIR$/.idea/basicwp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/testingwp.iml" filepath="$PROJECT_DIR$/.idea/testingwp.iml" />
     </modules>
   </component>
 </project>
