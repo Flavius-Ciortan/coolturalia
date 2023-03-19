@@ -5,11 +5,434 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58ac223d-e149-4afa-b174-204777d8e4e9" name="Changes" comment="asd">
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/coolturalia-theme/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/DMSans-Bold-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/DMSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/DMSans-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/DMSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/DMSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/DMSans-Regular-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/DMSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/DMSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/Daffodils.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexMono-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexMono-Bold1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexMono-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexMono-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexMono-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexMono-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexMono-Text.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexMono-TextItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexSans-ExtraLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexSans-ExtraLightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexSans-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/IBMPlexSans-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/Inter-VariableFont_slnt,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/Inter.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/Jcrop.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/Reading.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Italic.otf.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Italic.otf1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Italic.otf2.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Italic.ttf.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Italic.ttf1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Italic.ttf2.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Roman.otf.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Roman.otf1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Roman.otf2.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Roman.ttf.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Roman.ttf1.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/SourceSerif4Variable-Roman.ttf2.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/about-texture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/admin-bar-sprite-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/admin-bar-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/align-center-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/align-center.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/align-left-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/align-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/align-none-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/align-none.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/align-right-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/align-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/anchor.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/archive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/archive1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/arrow-pointer-blue-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/arrow-pointer-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/arrows-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/audio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/audio1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/audio2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/bird-on-black.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/bird-on-gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/bird-on-green.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/bird-on-salmon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/birds.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/border-anim-h.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/border-anim-v.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/browser-rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/browser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/bubble_bg-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/bubble_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/code.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/code1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/comment-grey-bubble-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/comment-grey-bubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/dashicon-edit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/dashicon-no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/dashicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/dashicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/dashicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/dashicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/date-button-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/date-button.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/default1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/divider-black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/divider-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/document.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/document1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/down_arrow-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/down_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/ducks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/embedded.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/flight-path-on-gray-a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/flight-path-on-gray-b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/flight-path-on-gray-c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/flight-path-on-salmon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/flight-path-on-transparent-a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/flight-path-on-transparent-b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/flight-path-on-transparent-c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/flight-path-on-transparent-d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/frownie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/gallery-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/gallery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon-binoculars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon-bird.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon-pointer-flag-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon-pointer-flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_biggrin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_confused.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_cool.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_cry.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_eek.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_evil.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_exclaim.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_idea.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_lol.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_mad.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_mrgreen.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_neutral.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_question.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_razz.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_redface.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_rolleyes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_sad.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_smile.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_surprised.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_twisted.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icon_wink.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icons32-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icons32-vs-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icons32-vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/icons32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/imgedit-icons-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/imgedit-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/in-the-bois-de-boulogne.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/interactive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/interactive1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/list-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/loadingAnimation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/macFFBgHack.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/marqueeHoriz.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/marqueeVert.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/media-button-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/media-button-image.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/media-button-music.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/media-button-other.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/media-button-video.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/media-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/mejs-controls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/menu-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/menu-vs-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/menu-vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/more-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/mrgreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/object.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/pagebreak-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/pagebreak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/playing-in-the-sand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/playlist-audio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/playlist-video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/post-formats-vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/post-formats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/post-formats32-vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/post-formats32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/resize-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/resize-rtl-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/resize-rtl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/resize.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/rolleyes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/roses-tremieres-hollyhocks-1884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/rss-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/screenshot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/screenshot2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/self-portrait-1885.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/simple-smile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/sort-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/sort.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/spinner-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/spinner-2x1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/spinner1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/spreadsheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/spreadsheet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/stars-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/text1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/the-garden-at-bougival-1884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/tinymce-small.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/tinymce-small.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/tinymce-small.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/tinymce.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/tinymce.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/tinymce.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/toggle-arrow-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/toggle-arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/trans.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/uploader-icons-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/uploader-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/video1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/video2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/villa-with-orange-trees-nice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/w-logo-blue-white-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/w-logo-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/w-logo-blue1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/w-logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wordpress-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wp-comments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wp-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wp-watermark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wpicons-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wpicons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wpspin-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wpspin.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wpspin_light-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/wpspin_light.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/xit-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/xit-2x1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/xit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/xit1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/yes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/young-woman-in-mauve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/.stylelintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/.stylelintrc-css.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/.stylelintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/basicwp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config-docker.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config-docker.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config-sample.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config-sample.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/coolturalia-theme/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/coolturalia-theme/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/coolturalia-theme/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/coolturalia-theme/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/archive.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/classes/class-twentynineteen-svg-icons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/classes/class-twentynineteen-walker-comment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/fonts/NonBreakingSpaceOverride.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/images/pattern_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/images/pattern_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/images/pattern_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/images/pattern_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/back-compat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/block-patterns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/color-patterns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/customizer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/helper-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/icon-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/template-functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/inc/template-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/customize-controls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/customize-preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/priority-menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/skip-link-focus-fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/js/touch-keyboard-navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/blocks/_blocks.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/elements/_elements.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/elements/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/elements/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/forms/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/forms/_fields.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/forms/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/layout/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/media/_captions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/media/_galleries.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/media/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/mixins/_mixins-master.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/mixins/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/modules/_accessibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/modules/_alignments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/modules/_clearings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_links.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_menu-footer-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_menu-main-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_menu-social-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/navigation/_next-previous.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/_site.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/footer/_site-footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/header/_site-featured-image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/header/_site-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/primary/_archives.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/primary/_comments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/primary/_posts-and-pages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/site/secondary/_widgets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/typography/_copy.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/typography/_headings.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/typography/_typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_colors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_columns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_fonts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_structure.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/sass/variables-site/_variables-site.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-editor-customizer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-editor-customizer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-editor.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-excerpt.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-none.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-single.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/footer/footer-widgets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/header/entry-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/header/site-branding.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/post/author-bio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/post/discussion-meta.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/404.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/css/editor-style-block-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/css/editor-style-block.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/css/editor-style-classic-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/css/editor-style-classic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-italic-var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/images/2020-landscape-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/images/2020-landscape-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/images/2020-square-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/images/2020-square-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/js/color-calculations.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/js/customize-controls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/js/customize-preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/js/customize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/js/editor-script-block.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/assets/js/skip-link-focus-fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/classes/class-twentytwenty-customize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/classes/class-twentytwenty-non-latin-languages.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/classes/class-twentytwenty-script-loader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/classes/class-twentytwenty-separator-control.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/classes/class-twentytwenty-svg-icons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-comment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/classes/class-twentytwenty-walker-page.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/comments.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/inc/block-patterns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/inc/custom-css.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/inc/starter-content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/inc/svg-icons.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/inc/template-tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/searchform.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/singular.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/style-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/content-cover.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/entry-author-bio.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/entry-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/featured-image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/footer-menus-widgets.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/modal-menu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/modal-search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/navigation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/template-parts/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/templates/template-cover.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwenty/templates/template-full-width.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/css/ie-editor.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/css/ie.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/css/print.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/css/style-dark-mode.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/assets/css/style-editor.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentyone/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/images/crystal/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/images/crystal/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/block-directory.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/block-directory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/block-editor.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/block-editor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/block-library.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/block-library.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/blocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/blocks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/components.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/components.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/compose.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/compose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/core-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/core-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/edit-site.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/edit-site.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/dist/keycodes.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/dist/keycodes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-includes/js/tw-sack.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-includes/js/tw-sack.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +443,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_COMMON_BRANCH" value="master" />
+    <option name="RECENT_COMMON_BRANCH" value="theme" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="SOFT" />
   </component>
@@ -43,10 +466,9 @@
     "node.js.detected.package.stylelint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "/home/ionut/Work/cozmoslabs-docker/projects/testingwp",
+    "node.js.selected.package.stylelint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.stylesheets.stylelint",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,8 +481,6 @@
       <option name="presentableId" value="Default" />
       <updated>1679176823236</updated>
       <workItem from="1679176824306" duration="1569000" />
-      <workItem from="1679178442272" duration="2894000" />
-      <workItem from="1679254175674" duration="4558000" />
     </task>
     <task id="LOCAL-00001" summary="testing">
       <created>1679177493963</created>
@@ -83,21 +503,7 @@
       <option name="project" value="LOCAL" />
       <updated>1679177721846</updated>
     </task>
-    <task id="LOCAL-00004" summary="asd">
-      <created>1679178575277</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1679178575277</updated>
-    </task>
-    <task id="LOCAL-00005" summary="asd">
-      <created>1679179074420</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1679179074420</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,19 +514,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="ISSUE_THEME_1" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -131,9 +525,5 @@
     <MESSAGE value="testing" />
     <MESSAGE value="asd" />
     <option name="LAST_COMMIT_MESSAGE" value="asd" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
